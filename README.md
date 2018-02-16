@@ -10,7 +10,7 @@
  
  ## Screenshots
  
- ![alt text](http://url/to/img.png)
- ![alt text](http://url/to/img.png)
- ![alt text](http://url/to/img.png)
- ![alt text](http://url/to/img.png)
+ ![alt text](https://github.com/radtrav/Spotifizer/blob/master/Screen%20Shot%202018-02-15%20at%207.01.52%20PM.png?raw=true)
+ ![alt text](https://github.com/radtrav/Spotifizer/blob/master/Screen%20Shot%202018-02-15%20at%207.01.32%20PM.png?raw=true)
+ ![alt text](https://github.com/radtrav/Spotifizer/blob/master/Screen%20Shot%202018-02-15%20at%207.01.13%20PM.png?raw=true)
+
