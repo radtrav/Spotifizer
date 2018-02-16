@@ -6,7 +6,7 @@
  
  * Search for artists
  * Search for albums
- * Listen a preview of tracks
+ * Listen to a preview of tracks
  
  ## Screenshots
  
