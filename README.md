@@ -1,6 +1,6 @@
  # A spotify client using Angular2
  
- This is a simple spotify client that utilizes the Spotify Web Api
+ This is a simple spotify client that utilizes the Spotify Web Api. The UI is built in Angular2 and the data comes from the Spotify API.
  
  ## Features
  
